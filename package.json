@@ -4,7 +4,7 @@
   "private": true,
   "description": "A simple utility that calculates the difference between two dates",
   "dependencies": {
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "react": "^16.9.0",
     "react-day-picker": "^7.3.2",
     "react-dom": "^16.9.0",
